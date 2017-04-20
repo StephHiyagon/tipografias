@@ -24,34 +24,28 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icono2:before {
-  content: "\e900";
+.ico{
   font-family: 'icomoon';
   font-size: 80px;
-  color:rgba(212, 2, 255,0.5);
+  color:#777777;
 }
+
 .icono1:before {
   content: "\e901";
-  font-family: 'icomoon';
-  font-size: 80px;
-  color:rgba(157, 255, 0,0.5);
 }
-.icono5:before {
-  content: "\e902";
-  font-family: 'icomoon';
-  font-size: 80px;
-  color:rgba(1, 233, 255,0.5);
+
+.icono2:before {
+  content: "\e900";
+}
+
+.icono3:before {
+  content: "\e9da";
 }
 
 .icono4:before {
   content: "\e9a2";
-  font-family: 'icomoon';
-  color:rgba(255, 217, 2,0.5);
-  font-size: 80px;
 }
-.icono3:before {
-  content: "\e9da";
-  font-family: 'icomoon';
-  color:rgba(255, 46, 28,0.5);
-  font-size: 80px;
+
+.icono5:before {
+  content: "\e902";
 }
